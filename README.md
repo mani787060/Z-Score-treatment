@@ -98,12 +98,6 @@ The dataset is used to identify extreme values and demonstrate how Z-Score can b
 
 ---
 
-## 🏁 Conclusion
-
-Z-Score Treatment is a widely used statistical technique for identifying and handling outliers. By measuring how far observations deviate from the mean, it helps detect unusual data points and create cleaner datasets for machine learning and data analysis tasks.
-
----
-
 ## 💻 Technologies Used
 
 - Python
@@ -111,4 +105,11 @@ Z-Score Treatment is a widely used statistical technique for identifying and han
 - NumPy
 - Matplotlib
 - Seaborn
+
+---
+
+## 🏁 Conclusion
+
+Z-Score Treatment is a widely used statistical technique for identifying and handling outliers. By measuring how far observations deviate from the mean, it helps detect unusual data points and create cleaner datasets for machine learning and data analysis tasks.
+
 
